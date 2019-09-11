@@ -1,0 +1,31 @@
+{ 
+	"technical": { 
+		"giveCommand": "/give {player_name} {item_identifier}{nbt} {count}",
+		"weatherCommand": "/weather {weather}",
+		"loadDefaultPlugin": true,
+		"registerRecipesInAnotherThread": true,
+		"gamemodeCommand": "/gamemode {gamemode}"
+	},
+	"modules": { 
+		"enableCraftableOnlyButton": true,
+		"showUtilsButtons": false,
+		"disableRecipeBook": false
+	},
+	"appearance": { 
+		"villagerScreenPermanentScrollBar": false,
+		"itemListOrdering": "REGISTRY_ASCENDING",
+		"recipeScreenType": "VILLAGER",
+		"lightGrayRecipeBorder": false,
+		"darkTheme": false,
+		"mirrorItemPanel": false,
+		"clickableRecipeArrows": true,
+		"itemCheatingMode": "REI_LIKE",
+		"searchFieldLocation": "CENTER",
+		"appendModNames": false,
+		"maxRecipePerPage": 3,
+		"scrollingEntryListWidget": false
+	},
+	"!general": { 
+		"cheating": false
+	}
+}

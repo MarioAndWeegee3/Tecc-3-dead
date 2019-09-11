@@ -1,0 +1,1 @@
+RecipeTweaker.removeRecipe("chunkactivator:chunk_activator")

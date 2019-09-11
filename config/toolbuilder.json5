@@ -1,0 +1,9 @@
+{ 
+	"canCraftWithSticks": false,
+	"holyDamage": 2.0,
+	"poisonTime": 200,
+	"extraXp": 4,
+	"lightDamageMult": 0.85,
+	"flamingTime": 5,
+	"flammableTimeMult": 1.4
+}

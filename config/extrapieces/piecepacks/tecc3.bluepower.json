@@ -1,0 +1,15 @@
+{
+	"version": "1.0.1"
+	"sets":{
+		"marble_block":{
+			"base":"bluepower:marble_block"
+		},
+		"marble_bricks":{
+			"base":"bluepower:marble_bricks"
+		},
+		"alloy_furnace":{
+			"base":"bluepower:alloy_furnace"
+			"include":[]
+		}
+	}
+}

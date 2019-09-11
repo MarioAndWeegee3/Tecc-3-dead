@@ -1,0 +1,21 @@
+{ 
+	// WARNING! Will break any existing crates
+	"crateEnabled": true,
+	"crateGenerateChance": 0.30000001192092896,
+	"crateRareChance": 0.004999999888241291,
+	"crateValuableChance": 0.05999999865889549,
+	"crateUncommonChance": 0.20000000298023224,
+	// WARNING! Will break any existing ender blocks
+	"enderBlockEnabled": true,
+	"chorusTPEnabled": true,
+	"cursesEnabled": true,
+	"effectivePistons": true,
+	"villagersFollow": true,
+	"spongeReducement": true,
+	"skeletonStrafe": true,
+	"extraDarkForest": true,
+	"extraDarkForestSpawn": 30,
+	"gravestonesEnabled": true,
+	"lockGravestones": true,
+	"renderSkulls": true
+}
