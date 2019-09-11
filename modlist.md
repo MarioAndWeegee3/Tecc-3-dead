@@ -62,6 +62,7 @@ As of 1.0.0-pre1
 * Sit 3
 * Smarter Mending 1.1.0
 * Sneak Through Berries 1.1.2
+* Squids Drop Calamari 2.8.1
 * Stockpile 1.1.2
 * Sweet Tooth 1.0.1
 * Tech Reborn 3.0.12.218
