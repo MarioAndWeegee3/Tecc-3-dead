@@ -78,3 +78,10 @@ As of 1.0.0-pre1
 * Tumble Dryer 1.1
 * Tweakeroo 0.10.0-dev.20190903.193019
 * Uncraft Me 0.1
+* Vanilla Death Chest 1.9.3.1
+* Vanilla Hammers 1.6.1
+* Vanilla Tool Sets 1.2.1
+* Vertical Redstone 1.0.1
+* Vivatech 1.0.0-alpha.15
+* Wild World 1.1.2
+* Wrench Anything 1.0.1
