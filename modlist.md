@@ -11,6 +11,8 @@ As of 1.0.0-pre1
 * Beacon Flight 1.1.0
 * Better Sleeping 0.2.1
 * BluePower 1.0.3
+* Blur 1.0.5
+* BrokenXP 1.0.3
 * Computer Craft: Tweaked 1.83.2+build.2
 * Chunk Activator 1.2.0
 * Climatic World Type 1.1.3
